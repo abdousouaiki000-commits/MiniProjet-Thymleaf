@@ -127,11 +127,11 @@ Tomcat started on port 8080
   "medecin": { "id": 1 }
 }
 ```
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
+![img.png](images/img.png)
+![img_1.png](images/img1.png)
+![img_2.png](images/img2.png)
+![img_3.png](images/img3.png)
+![img_4.png](images/img4.png)
 ---
 
 ## ⚠️ Remarques importantes
